@@ -1,0 +1,35 @@
+{
+    "todos": [
+        {
+            "title": "Tarea 1",
+            "responsible": "Mark",
+            "description":"Lorem ipsum",
+            "priority":"low"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "Ryan",
+            "description":"Lorem ipsum",
+            "priority":"medium"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Joseph",
+            "description":"Lorem ipsum",
+            "priority":"high"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "Maria",
+            "description":"Lorem ipsum",
+            "priority":"high"
+        },
+
+        {
+            "title": "Tarea 5",
+            "responsible": "Juan",
+            "description":"Lorem ipsum",
+            "priority":"high"
+        }
+    ]
+}
